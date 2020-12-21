@@ -70,7 +70,7 @@ def plot_analysis(analyze, fea, prob, label2id_dict):
 
 if __name__ == "__main__":
 
-    dataset = 'med2hop_bysnli_perturb'
+    dataset = 'med2hop_bysnli'
     label2id_dict = {'entailment': 0,  'contradiction': 1, 'neutral': 2}
     id_label_dict = {id: label for label, id in label2id_dict.items()}
     #model_path = './results/nnl_saved_model_snli-aligned_modular'
