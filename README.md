@@ -8,9 +8,9 @@ Please contact feng.yufei@queensu.ca for more info
 
 
 Running instructions:
-Download SNLI data, Glove, StanfordCoreNLP, please find the code for the exact path to put them in.
-Run prepro code to get snli data, vocab, word embedding.
-Run aligner.
-run train_aligned.
-run explain.
+1. Download SNLI data, Glove, StanfordCoreNLP, please find the code for the exact path to put them in.
+2. Run prepro code to get snli data, vocab, word embedding.
+3. Run aligner.
+4. run train_aligned.
+5. run explain.
 
