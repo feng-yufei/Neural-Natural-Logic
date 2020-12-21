@@ -11,7 +11,8 @@ import random
 
 
 # code saving and logging
-dataset = 'med2hop_bysnli'
+dataset = 'snli'
+# dataset = 'med2hop_bysnli' when you align for 2 hop
 with open('./data/{}/word2idx.pkl'.format(dataset), 'rb') as f:
     word2idx = pickle.load(f)
 idx2word = {v: k for k, v in word2idx.items()}
