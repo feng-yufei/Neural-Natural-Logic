@@ -15,6 +15,7 @@ Running instructions:
 5. run explain.
 
 Please cite the following paper if you find our code helpful:
+
 @inproceedings{feng2020exploring,
   title={Exploring End-to-End Differentiable Natural Logic Modeling},
   author={Feng, Yufei and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan and others},
