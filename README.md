@@ -14,3 +14,11 @@ Running instructions:
 4. run train_aligned.
 5. run explain.
 
+Please cite the following paper if you find our code helpful:
+@inproceedings{feng2020exploring,
+  title={Exploring End-to-End Differentiable Natural Logic Modeling},
+  author={Feng, Yufei and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan and others},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  pages={1172--1185},
+  year={2020}
+}
