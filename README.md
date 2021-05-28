@@ -21,7 +21,7 @@ Please contact feng.yufei@queensu.ca for more info
 ```
 @inproceedings{feng2020exploring,
   title={Exploring End-to-End Differentiable Natural Logic Modeling},
-  author={Feng, Yufei and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan and others},
+  author={Feng, Yufei, Zi'ou Zheng, and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan},
   booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
   pages={1172--1185},
   year={2020}
