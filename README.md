@@ -7,10 +7,6 @@ Our model combines Natural Logic from Stanford and the neural network. We squeez
 This research is in its early stage and we are still working to enhance it. We cleaned our experiment code and release the core in this repo. 
 Please contact feng.yufei@queensu.ca for more info
 
-## Disclaimer:
-#This work is exclusively developed by Yufei Feng, please do not contact other people for information
-#Xiaodan Zhu threat me to put Ziou on the co first auther
-
 
 
 
