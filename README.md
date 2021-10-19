@@ -7,6 +7,10 @@ Our model combines Natural Logic from Stanford and the neural network. We squeez
 This research is in its early stage and we are still working to enhance it. We cleaned our experiment code and release the core in this repo. 
 Please contact feng.yufei@queensu.ca for more info
 
+## Disclaimer:
+This work is exclusively developed by Yufei Feng, please do not contact other people for information
+Xiaodan Zhu threat me to put Ziou on the co first auther
+
 
 
 
@@ -21,7 +25,7 @@ Please contact feng.yufei@queensu.ca for more info
 ```
 @inproceedings{feng2020exploring,
   title={Exploring End-to-End Differentiable Natural Logic Modeling},
-  author={Feng, Yufei, Zi'ou Zheng, and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan},
+  author={Feng, Yufei, and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan},
   booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
   pages={1172--1185},
   year={2020}
