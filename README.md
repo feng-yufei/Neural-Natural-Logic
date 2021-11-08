@@ -17,6 +17,9 @@ Please contact the first author feng.yufei@queensu.ca for more info
 4. run train_aligned.
 5. run explain.
 
+## If you need checkpoints and the align model checkpoint:
+https://queensuca-my.sharepoint.com/personal/17yf48_queensu_ca/Documents/Attachments/checkpoints.zip
+
 ## Please cite the following paper if you find our code helpful:
 ```
 @inproceedings{feng2020exploring,
