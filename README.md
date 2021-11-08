@@ -18,8 +18,11 @@ Please contact the first author feng.yufei@queensu.ca for more info
 5. run explain.
 
 ## If you need checkpoints and the align model checkpoint:
+https://drive.google.com/file/d/17xyD31Aq8XsVLBVKKn4RagJRmeDNlsQ_/view?usp=sharing
+or
 https://queensuca-my.sharepoint.com/personal/17yf48_queensu_ca/Documents/Attachments/checkpoints.zip
-
+or
+send me (feng.yufei@queensu.ca) an email
 ## Please cite the following paper if you find our code helpful:
 ```
 @inproceedings{feng2020exploring,
