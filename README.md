@@ -13,7 +13,7 @@ Please contact the first author feng.yufei@queensu.ca for more info
 ## Running instructions:
 1. Download SNLI data, Glove, StanfordCoreNLP, please find the code for the exact path to put them in.
 2. Run prepro code to get snli data, vocab, word embedding.
-3. Run aligner (please use the esim checkpoint provided below in the link).
+3. Run aligner (please use the esim checkpoint provided below in the link, if you found vocabulary mis-match, it is due to the fact that the tokenizer is in a different version, please train a new esim model with the code provided with the aligner checkpoint).
 4. run train_aligned (checkpoints available below).
 5. run explain.
 
