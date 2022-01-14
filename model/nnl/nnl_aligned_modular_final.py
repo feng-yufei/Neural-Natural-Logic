@@ -7,7 +7,7 @@ from utils.torch.model import init_weights
 from utils.torch.compute import get_last_masked_tensor
 from utils.torch.loss import symmetry_loss, reverse_loss
 
-from .relnn_aligned_modular_final import RelNet
+from .relnn_aligned_modular_final2 import RelNet
 #from .relnn import RelNet
 
 from datautils.datareaders.basic_rel import LABEL_DICT as REL_LABEL_DICT
