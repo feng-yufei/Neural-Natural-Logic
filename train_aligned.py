@@ -5,7 +5,7 @@ import numpy as np
 from time import time, strftime
 import torch
 from tqdm import tqdm
-from model.nnl.nnl_aligned_modular import NNL_Aligned as NNL
+from model.nnl.nnl_aligned_modular_final2 import NNL_Aligned as NNL
 from torch.optim import Adam
 import pickle
 import random
