@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1909m38xsSsyaiQMXwcQMGaacg3qKhA_d/view?usp=shari
 ```
 @inproceedings{feng2020exploring,
   title={Exploring End-to-End Differentiable Natural Logic Modeling},
-  author={Feng, Yufei, and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan},
+  author={Feng, Yufei, Ziou Zheng, and Liu, Quan and Greenspan, Michael and Zhu, Xiaodan},
   booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
   pages={1172--1185},
   year={2020}
