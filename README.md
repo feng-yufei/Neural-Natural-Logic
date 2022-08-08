@@ -8,6 +8,8 @@ This research is in its early stage and we are still working to enhance it. We c
 Please contact the first author feng.yufei@queensu.ca for more info
 
 
+## The naturallogic-2hop dataset:
+./preprocess/med_2hop.tsv
 
 
 ## Running instructions:
